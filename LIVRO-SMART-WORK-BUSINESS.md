@@ -6581,17 +6581,12 @@ buscamos a melhor solução possível, não a mais rápida"
 
 **VISÃO (exemplo para Smart Work Business Consulting):**
 ```
-"Transformar a gestão empresarial brasileira através de 
-metodologia integrada e acessível, tornando excelência 
-operacional realidade para empresas de todos os portes"
+"Democratizar a gestão empresarial brasileira através de uma metodologia integrada e acessível, transformando a excelência operacional em uma realidade para empresas de todos os portes"
 ```
 
 **MISSÃO:**
 ```
-"Empoderar empresários e gestores com método comprovado 
-de gestão, integrando o melhor das práticas mundiais em 
-framework único, prático e aplicável, gerando resultados 
-sustentáveis e mensuráveis"
+"Facilitar o acesso de empresários e gestores a um método comprovado de gestão, integrando as melhores práticas mundiais em um framework único, prático e aplicável, gerando resultados sustentáveis e mensuráveis"
 ```
 
 **VALORES (5 pilares):**
@@ -10630,7 +10625,7 @@ OUTPUT:
 
 ## Conclusão do Capítulo 23
 
-O Smart Work Business não é soma de ferramentas — é **sistema integrado** onde tudo se conecta.
+O Smart Work Business não é a soma de ferramentas — é um **sistema integrado** onde tudo se conecta.
 
 ### Os 3 Níveis Conectados
 
@@ -12958,7 +12953,7 @@ Dezenas de livros, mais de 20 certificações, centenas de projetos, milhares de
 Tudo isso está condensado neste livro e no método Smart Work Business.
 
 **Este não é apenas um livro sobre gestão.**  
-**É uma década de aprendizado oferecida a você.**
+**É mais de uma década de aprendizado oferecida a você.**
 
 Se eu tivesse lido este livro em 2013, teria economizado anos de tentativa e erro.
 
@@ -13497,7 +13492,7 @@ Todos:
 
 # AGRADECIMENTOS
 
-Este livro é resultado de uma década de aprendizado, erros, acertos e, principalmente, de pessoas extraordinárias que cruzaram meu caminho.
+Este livro é resultado de mais de uma década de aprendizado, erros, acertos e, principalmente, de pessoas extraordinárias que cruzaram meu caminho.
 
 **Aos mestres que nunca conheci pessoalmente**, mas cujas ideias moldaram meu pensamento: Peter Drucker, W. Edwards Deming, John Owen, Richard Koch, e tantos outros gigantes em cujos ombros me apoio.
 

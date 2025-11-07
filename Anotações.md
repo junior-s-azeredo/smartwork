@@ -4,4 +4,4 @@
 
 -A criação e o desenvolvimento de software se tornaram o meu hooby, me intriga e me prende completamente a possibilidade de criar e desenvolver algo novo, eu sou movido por desafios e soluções que exigem todo o meu conhecimento e atenção, acho que é o unico momento que eu consigo desligar tudo e ativar o meu hiperfoco.
 
--
+-Parei na pag.
