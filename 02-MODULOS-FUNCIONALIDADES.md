@@ -200,7 +200,7 @@
 │                                     │
 │  [✓] Aceito os termos de uso       │
 │                                     │
-│  [ Iniciar Teste Grátis 14 dias ] │
+│  [ Iniciar Teste Grátis 7 dias ] │
 │                                     │
 │  Login com Google [G]              │
 └─────────────────────────────────────┘
@@ -210,7 +210,7 @@
 1. Cria usuário
 2. Cria organização
 3. Usuário vira OWNER da organização
-4. Inicia trial de 14 dias
+4. Inicia trial de 7 dias
 5. Redireciona para onboarding
 
 ---
@@ -246,13 +246,13 @@ PASSO 5: Tour Guiado
 
 ---
 
-### Passo 3: Uso Durante Trial (Dias 1-14)
+### Passo 3: Uso Durante Trial (Dias 1-7)
 
 **Recursos Disponíveis no Trial:**
 - ✅ Todos os módulos (acesso completo)
 - ✅ Até 5 usuários
-- ✅ Objetivos ilimitados
-- ✅ IA Consultor (20 perguntas/dia)
+- ✅ Objetivos limitados
+- ✅ IA Consultor (20 perguntas/dentro do TRIAL após as 20 só contratando o plano para normalizar)
 - ✅ Suporte por email
 
 **Lembretes:**
@@ -262,7 +262,7 @@ PASSO 5: Tour Guiado
 
 ---
 
-### Passo 4: Escolha do Plano (Dia 14 ou antes)
+### Passo 4: Escolha do Plano (Dia 7 ou antes)
 
 ```
 ┌─────────────────────────────────────────────────────────┐

@@ -298,14 +298,14 @@ Total: R$ 22,50/mês ≈ R$ 60 (buffer de segurança)
 ```
 ┌────────────────────────────────────────────────────────────────────┐
 │  STARTER     PROFESSIONAL    BUSINESS       ENTERPRISE             │
-│  R$ 397/mês  R$ 997/mês      R$ 1.997/mês   R$ 4.997/mês          │
+│  R$ 397/mês  R$ 997/mês      R$ 1.997/mês   R$ 3.997/mês          │
 ├────────────────────────────────────────────────────────────────────┤
-│  Até 10      Até 30          Até 100        Ilimitado             │
+│  Até 10      Até 30          Até 50         Até 100               │
 │  usuários    usuários        usuários       usuários              │
 │                                                                    │
 │  ✓ IA Inteligente (Cascateamento Automático por Complexidade)    │
-│  20 perguntas  100 perguntas  500 perguntas   Ilimitado          │
-│  /dia          /dia           /dia                                │
+│  30 perguntas  150 perguntas  400 perguntas   1000 perguntas     │
+│  /dia          /dia           /dia            /dia                │
 │  nano+mini     nano+mini+5.1  nano+mini+5.1   nano+mini+5.1      │
 │                                                                    │
 │  Target: 50%  Target: 35%     Target: 12%     Target: 3%          │
@@ -313,6 +313,13 @@ Total: R$ 22,50/mês ≈ R$ 60 (buffer de segurança)
 
 💡 TODOS OS PLANOS incluem IA desde o início!
 ✅ Trial de 7 dias com acesso completo ao plano escolhido
+⚠️ LIMITES CONTROLADOS por plano para proteção financeira (custo de IA)
+
+📦 PACOTES ADICIONAIS (acima do Enterprise):
+• +10 usuários: R$ 300/mês adicional
+• +500 perguntas IA/dia: R$ 400/mês adicional
+• +100 processos BPM: R$ 200/mês adicional
+• Pacotes personalizados disponíveis sob consulta
 ```
 
 ### Estratégia de Pricing
@@ -321,27 +328,30 @@ Total: R$ 22,50/mês ≈ R$ 60 (buffer de segurança)
 
 1. **Starter (R$ 397)** - Porta de entrada
    - Pequenas empresas (1-10 pessoas)
-   - IA já funcional (20 perguntas/dia = suficiente)
+   - IA já funcional (30 perguntas/dia = suficiente)
    - Sente valor desde o primeiro dia
    - **Objetivo:** Volume e conversão rápida
 
 2. **Professional (R$ 997)** - Sweet spot
    - Empresas em crescimento (10-30 pessoas)
-   - IA robusta (100 perguntas/dia)
+   - IA robusta (150 perguntas/dia)
    - Recursos completos para gestão
    - **Objetivo:** Maior volume de receita (35% dos clientes)
 
 3. **Business (R$ 1.997)** - Premium
-   - Empresas estabelecidas (30-100 pessoas)
-   - IA premium com analytics avançado
+   - Empresas estabelecidas (30-50 pessoas)
+   - IA premium com analytics avançado (400 perguntas/dia)
    - Compliance completo (ISOs)
    - **Objetivo:** Alto ticket, empresas sérias
 
-4. **Enterprise (R$ 4.997+)** - Corporativo
-   - Grandes empresas (100+ pessoas)
+4. **Enterprise (R$ 3.997)** - Corporativo
+   - Grandes empresas (50-100 pessoas)
+   - IA intensiva (1000 perguntas/dia)
    - Customização e gerente dedicado
    - SLA garantido
    - **Objetivo:** Grandes contas, estabilidade
+
+**💡 NOTA IMPORTANTE:** Todos os limites são controlados para garantir sustentabilidade financeira, especialmente em relação aos custos de IA. Nenhum plano é "completamente ilimitado" para evitar riscos financeiros.
 
 ---
 
@@ -351,36 +361,37 @@ Total: R$ 22,50/mês ≈ R$ 60 (buffer de segurança)
 
 | Plano | Perguntas/Dia | Mix de Modelos | Custo OpenAI/Mês | Margem |
 |-------|---------------|----------------|------------------|--------|
-| **Starter** | 20 | 98% nano, 2% mini | R$ 15 | 96% |
-| **Professional** | 100 | 95% nano, 4% mini, 1% 5.1 | R$ 90 | 91% |
-| **Business** | 500 | 90% nano, 8% mini, 2% 5.1 | R$ 500 | 75% |
-| **Enterprise** | Ilimitado* | Otimizado dinamicamente | Variável | 60-70% |
+| **Starter** | 30 | 98% nano, 2% mini | R$ 20 | 95% |
+| **Professional** | 150 | 95% nano, 4% mini, 1% 5.1 | R$ 110 | 89% |
+| **Business** | 400 | 90% nano, 8% mini, 2% 5.1 | R$ 600 | 70% |
+| **Enterprise** | 1.000* | Otimizado dinamicamente | R$ 1.500 | 62% |
 
-*Enterprise: monitorado mas sem limite hard
+*Enterprise: limite alto mas controlado para sustentabilidade financeira
 
 **Cálculo detalhado (Professional como exemplo):**
 
 ```
-100 perguntas/dia × 30 dias = 3.000 perguntas/mês
+150 perguntas/dia × 30 dias = 4.500 perguntas/mês
 
 Mix real:
-├─ 2.850 queries → nano (95%)  = ~100k tokens × $0.05  = R$ 2.50
-├─ 120 queries → mini (4%)     = ~150k tokens × $0.25  = R$ 18.75
-└─ 30 queries → 5.1 (1%)       = ~200k tokens × $1.25  = R$ 62.50
+├─ 4.275 queries → nano (95%)  = ~150k tokens × $0.05  = R$ 3.75
+├─ 180 queries → mini (4%)     = ~200k tokens × $0.25  = R$ 25.00
+└─ 45 queries → 5.1 (1%)       = ~250k tokens × $1.25  = R$ 78.13
 
-Total/mês: R$ 83.75 ≈ R$ 90 (buffer)
+Total/mês: R$ 106.88 ≈ R$ 110 (buffer)
 ```
 
 **Vs usar só GPT-5.1:**
 ```
-3.000 queries × 150k tokens avg × $1.25 = R$ 281.25/mês
-Economia: 68% com cascateamento! 💰
+4.500 queries × 180k tokens avg × $1.25 = R$ 506.25/mês
+Economia: 78% com cascateamento! 💰
 ```
 
 **Margem mantida (com cascateamento):**
-- Starter: R$ 397 - R$ 15 = R$ 382 (96% margem) ✅✅
-- Professional: R$ 997 - R$ 90 = R$ 907 (91% margem) ✅✅
-- Business: R$ 1.997 - R$ 500 = R$ 1.497 (75% margem) ✅
+- Starter: R$ 397 - R$ 20 = R$ 377 (95% margem) ✅✅
+- Professional: R$ 997 - R$ 110 = R$ 887 (89% margem) ✅✅
+- Business: R$ 1.997 - R$ 600 = R$ 1.397 (70% margem) ✅
+- Enterprise: R$ 3.997 - R$ 1.500 = R$ 2.497 (62% margem) ✅
 
 ---
 
@@ -524,12 +535,12 @@ Churn anual:         46% (1 - 0,95^12)
 
 | Plano | Preço | Custo IA | Margem Bruta | % |
 |-------|-------|----------|--------------|---|
-| Starter | R$ 397 | R$ 15 | R$ 382 | 96% |
-| Professional | R$ 997 | R$ 90 | R$ 907 | 91% |
-| Business | R$ 1.997 | R$ 500 | R$ 1.497 | 75% |
-| Enterprise | R$ 4.997 | ~R$ 1.500 | ~R$ 3.500 | 70% |
+| Starter | R$ 397 | R$ 20 | R$ 377 | 95% |
+| Professional | R$ 997 | R$ 110 | R$ 887 | 89% |
+| Business | R$ 1.997 | R$ 600 | R$ 1.397 | 70% |
+| Enterprise | R$ 3.997 | R$ 1.500 | R$ 2.497 | 62% |
 
-**Margem média ponderada:** 85%
+**Margem média ponderada:** 82%
 
 ---
 

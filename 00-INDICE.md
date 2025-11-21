@@ -79,7 +79,7 @@
 ### Documento 6: **PLANEJAMENTO ORÇAMENTÁRIO**
 **Arquivo:** `06-PLANEJAMENTO-ORCAMENTARIO.md`  
 **Conteúdo:**
-- Investimento inicial (MVP - 6 meses)
+- Investimento inicial (MVP - 5 meses)
 - Custos operacionais (Ano 1-3)
 - Modelo de receita e pricing
 - Unit Economics completo
@@ -89,6 +89,21 @@
 - KPIs financeiros e indicadores
 
 **Quem deve ler:** Investidores, CFO, Fundadores, Stakeholders financeiros
+
+---
+
+### Documento 7: **PROGRAMA DE CONSULTORIA**
+**Arquivo:** `07-PROGRAMA-CONSULTORIA.md`  
+**Conteúdo:**
+- Estrutura dos 4 programas (Kickstart, Accelerate, Transform, Partnership)
+- Processo de venda consultiva
+- Framework de diagnóstico
+- Integração com plataforma e landing page
+- Scripts e templates de venda
+- Modelo financeiro e projeções
+- Jornada completa do cliente
+
+**Quem deve ler:** Sales, Product Managers, Consultores, Investidores
 
 ---
 
@@ -124,7 +139,14 @@
 
 ---
 
-### 👨‍💻 DESENVOLVEDOR (NOVO NO PROJETO)
+### 📈 GESTOR COMERCIAL / VENDAS
+1. **Documento 1** - Apresentação & Visão Executiva (1h)
+2. **Documento 7** - Programa de Consultoria (2h)
+3. **Documento 6** - Planejamento Orçamentário (pricing) (30min)
+
+**Tempo total:** 3h30min
+
+---
 1. **Documento 1** - Apresentação (resumo - 20min)
 2. **Documento 3** - Projeto Técnico (1h30min)
 3. **Documento 4** - Dependências (30min)
@@ -200,18 +222,33 @@ npm run start:dev --prefix backend  # Terminal 2
 
 ## 📞 CONTATOS
 
-**Técnico:** dev@smartworkbusiness.com.br  
-**Produto:** produto@smartworkbusiness.com.br  
+**Técnico:** dev@smartworkbusiness.com  
+**Produto:** produto@smartworkbusiness.com  
 **Slack:** #smartwork-dev  
 
 ---
 
 ## 📊 STATUS
 
-**Versão da Documentação:** 3.0  
+**Versão da Documentação:** 4.1  
 **Última Atualização:** Novembro 2025  
-**Status do Projeto:** 🟡 Preparação para desenvolvimento  
-**Documentos:** 7 (Índice + 6 documentos principais)  
+**Status do Projeto:** 🟢 Desenvolvimento com IA iniciando (5 meses)  
+**Documentos:** 8 (Índice + 7 documentos principais)
+
+**Principais Atualizações v4.1:**
+- ✅ Novo Documento 07 - Programa de Consultoria
+- ✅ 4 tiers de consultoria estruturados
+- ✅ Processo de venda consultiva documentado
+- ✅ Integração com plataforma e landing page
+- ✅ Projeções financeiras com consultoria (+32% receita)
+
+**Atualizações v4.0:**
+- ✅ Timeline reduzida para 5 meses (desenvolvimento com IA)
+- ✅ Planos de preço atualizados (limites controlados)
+- ✅ Adicionados pacotes adicionais Enterprise+
+- ✅ Domínio corrigido: smartworkbusiness.com
+- ✅ Proposta de valor refinada: "Quanto vale o seu tempo?"
+- ✅ Enfatizado: NÃO é whitelabel  
 
 ---
 

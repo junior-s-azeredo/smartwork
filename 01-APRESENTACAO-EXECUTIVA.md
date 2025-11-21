@@ -30,6 +30,8 @@
 
 **Smart Work Business** é uma plataforma SaaS de **Governança e Gestão Empresarial** integrada que une **estratégia, tática e operação** em um único sistema. Potencializada por **Inteligência Artificial**, ela conecta dados, estrutura processos e impulsiona a melhoria contínua.
 
+**🎯 Quanto vale o seu tempo?** Esta é a pergunta que move nossa solução. No mundo moderno, tempo é o ativo mais valioso – e não tem preço. O Smart Work Business economiza tempo e dinheiro para você se concentrar no que realmente importa: fazer seu negócio crescer.
+
 ## Por que existe?
 
 Empresas brasileiras perdem **R$ 300-500 mil/ano** em desperdícios por falta de método, fragmentação de ferramentas e decisões baseadas em intuição ao invés de dados.
@@ -38,17 +40,22 @@ Empresas brasileiras perdem **R$ 300-500 mil/ano** em desperdícios por falta de
 
 Única plataforma que **materializa um método completo de gestão** (Drucker + Deming + Owen), não é apenas mais uma ferramenta.
 
+**⚠️ IMPORTANTE:** Smart Work Business **NÃO é whitelabel**. É uma plataforma proprietária com método exclusivo desenvolvido ao longo de 12+ anos de experiência em gestão empresarial.
+
 ## Tração esperada
 
-- **6 meses:** MVP com 100 clientes beta
+- **5 meses:** MVP completo pronto para produção
+- **6 meses:** Lançamento beta com 100 clientes
 - **12 meses:** 600 clientes pagantes, R$ 562k MRR
 - **24 meses:** 2.000 clientes, R$ 1,87M MRR
 
 ## Investimento
 
-**R$ 552.500** para MVP (6 meses)  
+**R$ 250-350k** para MVP (5 meses) - **Desenvolvimento com IA**  
 **Break-even:** Mês 9  
-**ROI esperado:** 6-10x no primeiro ano  
+**ROI esperado:** 6-10x no primeiro ano
+
+**🚀 DIFERENCIAL:** Desenvolvimento acelerado por IA (Cursor + Claude) permite entregar em 5 meses o que levaria 12 meses com equipe tradicional.  
 
 *Detalhes completos: Ver [Documento 06 - Planejamento Orçamentário](06-PLANEJAMENTO-ORCAMENTARIO.md)*
 
@@ -438,14 +445,14 @@ Sistema fez: 15+ controles de governança
 ```
 ┌────────────────────────────────────────────────────────────────────┐
 │  STARTER     PROFESSIONAL    BUSINESS       ENTERPRISE             │
-│  R$ 397/mês  R$ 997/mês      R$ 1.997/mês   R$ 4.997/mês          │
+│  R$ 397/mês  R$ 997/mês      R$ 1.997/mês   R$ 3.997/mês          │
 ├────────────────────────────────────────────────────────────────────┤
-│  Até 10      Até 30          Até 100        Ilimitado             │
+│  Até 10      Até 30          Até 50         Até 100               │
 │  usuários    usuários        usuários       usuários              │
 │                                                                    │
 │  ✓ IA Inteligente (Cascateamento Automático por Complexidade)    │
-│  20 perguntas  100 perguntas  500 perguntas   Ilimitado          │
-│  /dia          /dia           /dia                                │
+│  30 perguntas  150 perguntas  400 perguntas   1000 perguntas     │
+│  /dia          /dia           /dia            /dia                │
 │  nano+mini     nano+mini+5.1  nano+mini+5.1   nano+mini+5.1      │
 │                                                                    │
 │  ✓ Objetivos ✓ Objetivos     ✓ Objetivos     ✓ Objetivos         │
@@ -457,8 +464,8 @@ Sistema fez: 15+ controles de governança
 │  ✓ Tarefas   ✓ Tarefas +     ✓ BPM/BPMN      ✓ BPM Avançado      │
 │               Kanban           completo        + Simulações        │
 │                                                                    │
-│  ✓ 5 processos ✓ 25 processos ✓ Ilimitado     ✓ Ilimitado         │
-│    BPM          BPM            processos       processos           │
+│  ✓ 5 processos ✓ 25 processos ✓ 100 processos ✓ 500 processos     │
+│    BPM          BPM            BPM             BPM                 │
 │                                                                    │
 │  • PDCA básico ✓ PDCA         ✓ PDCA +        ✓ PDCA +            │
 │              completo          Analytics       IA Sugestões        │
@@ -466,7 +473,7 @@ Sistema fez: 15+ controles de governança
 │  • Analytics  ✓ Analytics     ✓ Análise 80/20 ✓ Preditiva +       │
 │    básico      avançado        automática     Prescritiva         │
 │                                                                    │
-│  • 2 integrações ✓ 10          ✓ 50           ✓ Ilimitado +       │
+│  • 2 integrações ✓ 10          ✓ 50           ✓ 100 +             │
 │                  integrações    integrações    API privada         │
 │                                                                    │
 │  ✓ Email      ✓ Email +       ✓ Chat +        ✓ Gerente           │
@@ -480,6 +487,13 @@ Sistema fez: 15+ controles de governança
 
 💡 TODOS OS PLANOS incluem IA desde o início!
 ✅ Trial de 7 dias com acesso completo ao plano escolhido
+⚠️ LIMITES CONTROLADOS por plano para proteção financeira (custo de IA)
+
+📦 PACOTES ADICIONAIS (acima do Enterprise):
+• +10 usuários: R$ 300/mês adicional
+• +500 perguntas IA/dia: R$ 400/mês adicional
+• +100 processos BPM: R$ 200/mês adicional
+• Pacotes personalizados disponíveis sob consulta
 ```
 
 ### Estratégia de Pricing
@@ -488,27 +502,30 @@ Sistema fez: 15+ controles de governança
 
 1. **Starter (R$ 397)** - Porta de entrada
    - Pequenas empresas (1-10 pessoas)
-   - IA já funcional (20 perguntas/dia = suficiente)
+   - IA já funcional (30 perguntas/dia = suficiente)
    - Sente valor desde o primeiro dia
    - **Objetivo:** Volume e conversão rápida
 
 2. **Professional (R$ 997)** - Sweet spot
    - Empresas em crescimento (10-30 pessoas)
-   - IA robusta (100 perguntas/dia)
+   - IA robusta (150 perguntas/dia)
    - Recursos completos para gestão
    - **Objetivo:** Maior volume de receita (35% dos clientes)
 
 3. **Business (R$ 1.997)** - Premium
-   - Empresas estabelecidas (30-100 pessoas)
-   - IA premium com analytics avançado
+   - Empresas estabelecidas (30-50 pessoas)
+   - IA premium com analytics avançado (400 perguntas/dia)
    - Compliance completo (ISOs)
    - **Objetivo:** Alto ticket, empresas sérias
 
-4. **Enterprise (R$ 4.997+)** - Corporativo
-   - Grandes empresas (100+ pessoas)
+4. **Enterprise (R$ 3.997)** - Corporativo
+   - Grandes empresas (50-100 pessoas)
+   - IA intensiva (1000 perguntas/dia)
    - Customização e gerente dedicado
    - SLA garantido
    - **Objetivo:** Grandes contas, estabilidade
+
+**💡 NOTA IMPORTANTE:** Todos os limites são controlados para garantir sustentabilidade financeira, especialmente em relação aos custos de IA. Nenhum plano é "completamente ilimitado" para evitar riscos financeiros.
 
 ### Trial: 7 Dias (Recomendado)
 
@@ -573,12 +590,12 @@ Dia 7: "Últimas horas!" + urgência
 
 | Plano | Perguntas/Dia | Modelos Disponíveis |
 |-------|---------------|---------------------|
-| **Starter** | 20 | nano + mini |
-| **Professional** | 100 | nano + mini + 5.1 |
-| **Business** | 500 | nano + mini + 5.1 |
-| **Enterprise** | Ilimitado* | Todos (otimizado) |
+| **Starter** | 30 | nano + mini |
+| **Professional** | 150 | nano + mini + 5.1 |
+| **Business** | 400 | nano + mini + 5.1 |
+| **Enterprise** | 1.000* | nano + mini + 5.1 |
 
-*Enterprise: monitorado mas sem limite hard
+*Enterprise: limite alto mas controlado para sustentabilidade financeira
 
 **Economia:** Cascateamento inteligente reduz custos em 70% mantendo qualidade.
 
@@ -628,34 +645,42 @@ Dia 7: "Últimas horas!" + urgência
 ## Visão de 3 Anos
 
 ```
-2026                  2027                  2028
+2026 (5 meses)        2027                  2028
 ├─────────────────────┼─────────────────────┤
-MVP                   Consolidação          Liderança
+MVP com IA            Consolidação          Liderança
 │                     │                     │
 ├─ Objetivos SMART    ├─ API Pública        ├─ Marketplace
-├─ Dashboards         ├─ 50+ Integrações    ├─ White-label
-├─ BPM básico         ├─ Mobile Apps        ├─ IA avançada
-├─ IA Consultor       ├─ Análise 80/20      ├─ Internacional
-├─ Analytics          ├─ Governança ISO     └─ 10k+ clientes
-└─ 500 clientes       └─ 2k clientes
+├─ Dashboards         ├─ 50+ Integrações    ├─ IA avançada
+├─ BPM completo       ├─ Mobile Apps        ├─ Internacional
+├─ IA Consultor       ├─ Análise 80/20      └─ 10k+ clientes
+├─ Analytics          ├─ Governança ISO     
+├─ Governança         └─ 2k clientes
+└─ 500 clientes
+
+⚡ Acelerado por IA: 5 meses ao invés de 12
 ```
 
 ---
 
 ## Lançamento por Fases
 
-### MVP (Meses 1-6)
-**Objetivo:** Validar produto-mercado
+### MVP (Meses 1-5) - **Desenvolvimento com IA**
+**Objetivo:** Produto completo para produção
 
 **Features:**
 - ✅ Objetivos SMART
 - ✅ Dashboards (3 níveis)
-- ✅ BPM básico
+- ✅ BPM completo
 - ✅ Tarefas e Kanban
-- ✅ IA Consultor (básico)
+- ✅ IA Consultor
+- ✅ PDCA
+- ✅ Analytics 80/20
+- ✅ Governança (ISOs)
 - ✅ Pagamentos Stripe
 
 **Meta:** 100 clientes beta
+
+**🚀 Diferencial:** Desenvolvimento acelerado com IA (Cursor + Claude) permite entregar produto completo em 5 meses.
 
 ---
 
@@ -692,11 +717,13 @@ MVP                   Consolidação          Liderança
 
 ## Resumo Executivo
 
-**Investimento MVP (6 meses):** R$ 552.500  
+**Investimento MVP (5 meses):** R$ 250-350k (desenvolvimento com IA)  
 **Investimento Total Ano 1:** R$ 651.900  
 **Break-even:** Mês 9  
 **ROI Investidor (12 meses):** 6-10x  
-**ROI Investidor (36 meses):** 35-60x  
+**ROI Investidor (36 meses):** 35-60x
+
+**💡 DESTAQUE:** Utilizando IA (Cursor + Claude), um desenvolvedor especialista consegue entregar em 5 meses o que uma equipe tradicional levaria 12 meses, reduzindo custos em 75% e tempo em 60%.  
 
 ### Projeção de Receita
 
@@ -745,6 +772,7 @@ MVP                   Consolidação          Liderança
 
 ## Equipe Necessária (MVP)
 
+### Tradicional (12 meses)
 ✅ **Tech Lead** (12+ anos) - Arquitetura  
 ✅ **2 Full-Stack Sr** (5+ anos) - Desenvolvimento  
 ✅ **Backend IA** (3+ anos) - IA/ML  
@@ -752,31 +780,235 @@ MVP                   Consolidação          Liderança
 ✅ **UX/UI** (3+ anos) - Design  
 ✅ **QA** (3+ anos) - Qualidade  
 
-**Total: 7 pessoas (enxuto e eficiente)**
+**Total: 7 pessoas | Custo: ~R$ 1,2M**
 
 ---
 
-## Execução (Próximos 180 dias)
+### Com IA + Cursor (5 meses) 🚀
 
-### Mês 1-2: Setup
-- [ ] Contratar equipe
-- [ ] Infraestrutura
-- [ ] Design System
+✅ **1 Desenvolvedor Especialista** + **IA (Claude via Cursor)**
 
-### Mês 3-4: Desenvolvimento Core
-- [ ] Auth + Multi-tenant
+**Perfil do Desenvolvedor:**
+- 10+ anos de experiência
+- Especialista em No Code / Vibe Code
+- Conhecimento profundo de gestão empresarial
+- Full-stack (Next.js, NestJS, Python)
+- Visão completa do produto
+
+**IA como Multiplicador:**
+- Gera 80% do código boilerplate
+- Acelera features em 10x
+- Cria testes automaticamente
+- Documenta enquanto codifica
+
+**Total: 1 pessoa + IA | Custo: ~R$ 250-350k**
+
+**💰 Economia: 75% | ⚡ Velocidade: 2,4x mais rápido**
+
+---
+
+**Por que funciona?**
+
+1. ✅ **Sem handoffs** - Uma pessoa, contexto completo
+2. ✅ **Decisões rápidas** - Sem reuniões de alinhamento
+3. ✅ **IA moderna** - Cursor + Claude com 1M tokens
+4. ✅ **Stack produtiva** - Next.js, NestJS, Prisma
+5. ✅ **Conhecimento do domínio** - Criador é especialista em gestão
+
+**Riscos mitigados:**
+- ⚠️ Documentação automática por IA
+- ⚠️ Código limpo e padronizado
+- ⚠️ Testes gerados automaticamente
+- ⚠️ Escalabilidade planejada desde o início
+
+---
+
+## Execução (Próximos 5 Meses - Desenvolvimento com IA)
+
+### Mês 1: Fundação
+- [x] Setup infraestrutura (Hostinger + Docker)
+- [x] Arquitetura base (Next.js + NestJS)
+- [x] Auth + Multi-tenant
+- [x] Design System (Tailwind + shadcn/ui)
+
+### Mês 2: MVP Core
 - [ ] Objetivos SMART
-- [ ] Dashboards
+- [ ] Tarefas + Kanban
+- [ ] Dashboards básicos
+- [ ] IA Consultor (beta)
+- [ ] Stripe (pagamentos)
 
-### Mês 5: IA e Integrações
-- [ ] Consultor IA
-- [ ] Stripe
-- [ ] Brevo
+### Mês 3-4: Produto Completo
+- [ ] BPM/BPMN editor
+- [ ] PDCA completo
+- [ ] Analytics 80/20
+- [ ] Riscos (ISO 31000)
+- [ ] Governança (ISOs)
+- [ ] Integrações
 
-### Mês 6: Beta e Ajustes
+### Mês 5: Beta e Ajustes
+- [ ] Landing Page otimizada
 - [ ] 100 clientes beta
 - [ ] Feedback e iteração
+- [ ] Documentação completa
 - [ ] Preparação lançamento
+
+**🚀 Acelerado por IA:** O que levaria 12 meses com equipe tradicional, será entregue em 5 meses com desenvolvimento assistido por IA.
+
+---
+
+# PROGRAMA DE CONSULTORIA
+
+## Mais do Que Software: Transformação Completa
+
+> **"Quanto vale o seu tempo?"**
+> 
+> Você não precisa perder meses descobrindo como usar a plataforma.
+> Nós implementamos, treinamos e aceleramos seu crescimento.
+
+### Por Que Consultoria?
+
+**70% dos softwares SaaS são subutilizados.**  
+**43% das empresas abandonam ferramentas em 6 meses.**  
+**Causa #1: Falta de implementação adequada.**
+
+**Nossa Solução:** Implementação guiada + Transferência de conhecimento + Resultados garantidos.
+
+---
+
+## 4 Programas Disponíveis
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                           │
+│  🚀 KICKSTART                                             │
+│  Implementação Rápida (1-2 semanas)                       │
+│  → Para: Empresas até 30 pessoas                          │
+│  → Ideal: Começar operacional rápido                      │
+│                                                           │
+│  ⚡ ACCELERATE                                            │
+│  Implementação + Estratégia (60 dias)                     │
+│  → Para: Empresas de 10-50 pessoas                        │
+│  → Ideal: Implementação + direção estratégica             │
+│                                                           │
+│  🎯 TRANSFORM                                             │
+│  Transformação Completa (180 dias)                        │
+│  → Para: Empresas de 30-100+ pessoas                      │
+│  → Ideal: Transformação profunda com resultados           │
+│                                                           │
+│  🤝 PARTNERSHIP                                           │
+│  Parceria Estratégica (12 meses)                          │
+│  → Para: Empresas 100+ pessoas                            │
+│  → Ideal: Braço direito estratégico do CEO                │
+│                                                           │
+└──────────────────────────────────────────────────────────┘
+```
+
+### O Que Está Incluído?
+
+**KICKSTART:**
+- ✅ Setup completo da plataforma (1-2 semanas)
+- ✅ Treinamento em 2 níveis (4h)
+- ✅ 3 objetivos SMART iniciais
+- ✅ 15 dias de suporte
+
+**ACCELERATE:**
+- ✅ Diagnóstico estratégico (Workshop 4h)
+- ✅ Implementação completa (30 dias)
+- ✅ Treinamento em 3 níveis (12h)
+- ✅ 5-10 objetivos estruturados
+- ✅ 3-5 processos BPM modelados
+- ✅ 30 dias de acompanhamento
+
+**TRANSFORM:**
+- ✅ Imersão presencial (2 dias)
+- ✅ Planejamento estratégico completo
+- ✅ Implementação profunda (90 dias)
+- ✅ Treinamento em 4 níveis (20h+)
+- ✅ Todos os processos BPM
+- ✅ Governança estruturada (ISOs)
+- ✅ 90 dias de consolidação
+
+**PARTNERSHIP:**
+- ✅ Tudo do Transform +
+- ✅ Success Manager dedicado
+- ✅ Acesso direto ao founder
+- ✅ Sessões estratégicas semanais
+- ✅ Revisões trimestrais presenciais
+- ✅ Suporte contínuo (12 meses)
+
+---
+
+## Como Funciona?
+
+**Não empurramos pacotes. Fazemos diagnóstico primeiro.**
+
+```
+1. Você agenda diagnóstico gratuito (45 min)
+2. Entendemos sua dor, contexto e objetivos
+3. Analisamos e recomendamos programa ideal
+4. Apresentamos proposta customizada
+5. Você decide se faz sentido
+6. Implementamos e transformamos juntos
+```
+
+### Resultados Esperados
+
+**Sem Consultoria:**
+- 3-6 meses para implementar sozinho
+- 60% de risco de falha
+- Subutilização da plataforma
+- ROI incerto
+
+**Com Consultoria:**
+- 2-4 semanas para estar operacional
+- 90%+ de taxa de sucesso
+- Uso completo da plataforma
+- ROI garantido em 90 dias
+
+---
+
+## Impacto Financeiro
+
+### Projeção com Consultoria (Take Rate 15%)
+
+**Ano 1:**
+- MRR Plataforma: R$ 562k
+- Consultoria: R$ 1,5M
+- **Total: R$ 8,2M** (+22% vs só plataforma)
+
+**Ano 2:**
+- MRR Plataforma: R$ 1,87M
+- Consultoria: R$ 7,1M
+- **Total: R$ 29,6M** (+32% vs só plataforma)
+
+**💰 Consultoria adiciona ~R$ 70M ao valuation (ARR × 10x)!**
+
+---
+
+## Para Investidores
+
+**Por que isto importa?**
+
+1. **✅ Diferenciação:** 90% dos SaaS só entregam software
+2. **✅ Retenção:** Clientes com consultoria têm churn 60% menor
+3. **✅ LTV:** Aumenta LTV em 3-5x
+4. **✅ NPS:** Clientes satisfeitos viram advogados
+5. **✅ Receita:** Adiciona 20-30% à receita total
+6. **✅ Valuation:** Aumenta múltiplo de avaliação
+
+**Não vendemos apenas software. Vendemos transformação.**
+
+---
+
+**📄 Para detalhes completos:**  
+Ver [Documento 07 - Programa de Consultoria](07-PROGRAMA-CONSULTORIA.md)
+
+- Estrutura detalhada dos 4 programas
+- Processo de venda consultiva
+- Scripts e frameworks de diagnóstico
+- Modelo financeiro completo
+- Jornada do cliente passo a passo
 
 ---
 
@@ -819,16 +1051,16 @@ MVP                   Consolidação          Liderança
 ### Interessado em:
 
 **Investir?**
-→ contato@smartworkbusiness.com.br
+→ contato@smartworkbusiness.com
 
 **Parceria?**
-→ parcerias@smartworkbusiness.com.br
+→ parcerias@smartworkbusiness.com
 
 **Ser Cliente Beta?**
-→ beta@smartworkbusiness.com.br
+→ beta@smartworkbusiness.com
 
 **Juntar-se ao Time?**
-→ vagas@smartworkbusiness.com.br
+→ vagas@smartworkbusiness.com
 
 ---
 
@@ -859,8 +1091,8 @@ MVP                   Consolidação          Liderança
 **Smart Work Business**  
 *Transformando Dados em Estratégia, Estratégia em Ação e Ação em Resultados*
 
-**www.smartworkbusiness.com.br**  
-**contato@smartworkbusiness.com.br**
+**www.smartworkbusiness.com**  
+**contato@smartworkbusiness.com**
 
 **Novembro 2025**
 
